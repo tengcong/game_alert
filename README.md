@@ -3,7 +3,8 @@
 ``` javascript
 
 <script src="http://lib.sinaapp.com/js/jquery/1.9.1/jquery-1.9.1.min.js"></script>
-<script src="https://raw.githubusercontent.com/tengcong/game_alert/master/advertise_alert.js"></script>
+<script src="https://rawgithub.com/tengcong/game_alert/master/advertise_alert.js"></script>
+
 
 ```
 
